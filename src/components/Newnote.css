@@ -1,12 +1,12 @@
 
 .Form-wrapper{
-  position: fixed;z-index: 2;
+  position: fixed;z-index: 299;
    left: 0;right: 0;bottom: 0;top: 0;background-color: #2F2F2FBF;
    ;
   }
   
   .create-note{
-  position: fixed;z-index: 2;
+  position: fixed;z-index: 300;
   justify-content:center;
   left:26%;
   top: 26%;
